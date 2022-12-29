@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 buhyun
 
 <header>
   <div align='center'>
-    <img src="image.png" width="200px">
     <h3><strong>Buhyun Hwang</strong></h3>
     <p>Systems Management Engineering (기술 데이터 공학 전공)</p>
     <strong><a href="https://www.notion.so/about-5c091f56ce7b49c09212dbff1cbaced7">read me more</a>
@@ -13,7 +12,6 @@
   <div align='center'>
     <br>
     <h3>Languages and Tools</h3>
-      <h5>SKILLS</h5>
         <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
         <img src="https://img.shields.io/badge/CSS-000000?style=round-square&logo=css3&logoColor=blue"/>
         <img src="https://img.shields.io/badge/JavaScript-000000?style=round-square&logo=JavaScript&logoColor=yellow"/>
