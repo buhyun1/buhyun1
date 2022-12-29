@@ -1,5 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋 buhyun&fontSize=90"/>
+<img src = "https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BUHYUN%20&fontSize=90&animation=scaleIn)"/>
 
 <header>
   <div align='center'>
