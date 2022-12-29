@@ -1,6 +1,7 @@
-<img src="image.jpg" width="200px">
+
 <header>
   <div align='center'>
+    <img src="image.jpg" width="200px">
     <h3><strong>Buhyun Hwang</strong></h3>
     <p>Systems Management Engineering</p>
     <p>(기술 데이터 공학 전공)</p>
