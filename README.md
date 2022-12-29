@@ -1,4 +1,4 @@
-<img src="image.png" width="200px">
+<img src="image.jpg" width="200px">
 <header>
   <div align='center'>
     <h3><strong>Buhyun Hwang</strong></h3>
