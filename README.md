@@ -1,7 +1,7 @@
 
 <header>
   <div align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BUHYUN%20render&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BUHYUN&fontSize=90" />
     <h3><strong>Buhyun Hwang</strong></h3>
     <p>Systems Management Engineering</p>
     <p>(기술 데이터 공학 전공)</p>
