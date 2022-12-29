@@ -1,8 +1,9 @@
-
+<img src="image.png" width="200px">
 <header>
   <div align='center'>
     <h3><strong>Buhyun Hwang</strong></h3>
-    <p>Systems Management Engineering (기술 데이터 공학 전공)</p>
+    <p>Systems Management Engineering</p>
+    <p>(기술 데이터 공학 전공)</p>
     <strong><a href="https://www.notion.so/about-5c091f56ce7b49c09212dbff1cbaced7">read me more</a>
   </div>
 </header>
