@@ -28,7 +28,7 @@
     <h3>Contact</h3>
     <p>
       <a href="mailto:hwangbh8@naver.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
-      <a href="https://www.instagram.com/buhyeon/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
+      <a href="https://www.instagram.com/_buhyeon_/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
     </p>
     <br>
 
